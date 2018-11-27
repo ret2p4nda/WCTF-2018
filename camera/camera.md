@@ -1,0 +1,3 @@
+We provide `data.img`, `openwrt-malta-le-vmlinux.elf` and the ip address(172.16.13.194) of server.
+IMPORTANT: Make sure exploit remote server before exploit successfully in local and DO NOT break remote environment.We provide `data.img`, `openwrt-malta-le-vmlinux.elf` and the ip address(172.16.13.194) of server.
+IMPORTANT: Make sure exploit remote server before exploit successfully in local and DO NOT break remote environment.

@@ -1,0 +1,1 @@
+172.16.13.53 3389 flag is here: c:\flag.txt, User:ctf, password:ctf
